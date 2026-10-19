@@ -1,18 +1,8 @@
 ## 📋 Sobre o Projeto
 
-Este repositório é um **guia de referência e um laboratório de códigos** sobre as principais plataformas de hardware para Internet das Coisas (IoT). Ele foi pensado para três públicos:
-
-| Público | O que encontra aqui |
-|---|---|
-| 🎓 **Estudantes** | Conceitos, comparativos e exemplos mínimos para começar |
-| 🔧 **Hobbistas** | Ideias de projeto, ligações de hardware e dicas práticas |
-| 🏭 **Engenheiros** | Critérios de escolha, segurança, consumo e caminho para produção |
-
-> 💡 **Objetivo:** reduzir o tempo entre "tenho uma ideia" e "tenho um dispositivo funcionando e conectado".
+Um guia de referência sobre as principais plataformas de hardware para Internet das Coisas (IoT), com documentação, esquemas de ligação e exemplos práticos para quem quer aprender e construir dispositivos conectados.
 
 ---
-
-## 🛠️ Plataformas Cobertas
 
 ### Visão geral
 
