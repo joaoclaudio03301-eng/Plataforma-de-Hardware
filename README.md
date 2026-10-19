@@ -1,4 +1,4 @@
-                                                🌐 Plataformas de Hardware para IoT
+<div align="center"> # 🌐 Plataformas de Hardware para IoT</div>
 Guia prático e coleção de códigos para quem quer estudar e criar projetos de IoT com microcontroladores e microprocessadores.
 ## 📋 Sobre o Projeto
 
