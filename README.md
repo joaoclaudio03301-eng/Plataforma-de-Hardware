@@ -1,6 +1,8 @@
+                                                🌐 Plataformas de Hardware para IoT
+Guia prático e coleção de códigos para quem quer estudar e criar projetos de IoT com microcontroladores e microprocessadores.
 ## 📋 Sobre o Projeto
 
-Um guia de referência sobre as principais plataformas de hardware para Internet das Coisas (IoT), com documentação, esquemas de ligação e exemplos práticos para quem quer aprender e construir dispositivos conectados.
+Este repositório reúne materiais de estudo, circuitos de exemplo e exemplos práticos sobre as principais plataformas de hardware para Internet das Coisas (IoT). Serve como consulta para estudantes, entusiastas e engenheiros que estão criando soluções conectadas.
 
 ---
 
